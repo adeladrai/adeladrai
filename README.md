@@ -1,4 +1,4 @@
-Hi there 👋, I'm a quantitative researcher and applied mathematician with experience in large-scale data modeling, predictive analytics, and quantitative research.
+Hi there 👋, I'm a quantitative researcher and applied mathematician with experience in large-scale data modeling, predictive analytics, and machine learning.
 
 On GitHub you'll mostly find projects related to:
 - deep learning and representation learning for time series and text,
