@@ -9,5 +9,11 @@ On GitHub you'll mostly find projects related to:
 **Tech:** Python, PyTorch, TensorFlow, scikit-learn, pandas, NumPy, SQL, C++, LaTeX  
 **Interests:** machine learning, deep learning, NLP, time-series modeling, quantitative finance, data-centric AI, and applied statistics
 
+
 For a more detailed overview of my experience, education and projects, you can find me on LinkedIn:  
 👉 [linkedin.com/in/adel-adrai](https://linkedin.com/in/adel-adrai)
+
+💡 Support my open‑source machine learning research:  
+[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=ZPW3T5QMMY2UC)
+
+![Donate via PayPal](QR code.png)
