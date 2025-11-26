@@ -14,5 +14,3 @@ For a more detailed overview of my experience, education and projects, you can f
 👉 [linkedin.com/in/adel-adrai](https://linkedin.com/in/adel-adrai)
 
 💡 Support my open‑source machine learning research: [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=ZPW3T5QMMY2UC)
-
-![Donate via PayPal](QR_code.png)
